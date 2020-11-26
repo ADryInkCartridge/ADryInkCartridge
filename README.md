@@ -1,10 +1,8 @@
-### Hello I'm Bayu Adjie Sidharta, you can call me Bayu!
-
-## I'm a Student at Institut Teknologi Sepuluh Nopember!!
-
+## 👋👋👋 I'm Bayu Adjie Sidharta
+- 💻 Student at Institut Teknologi Sepuluh Nopember
 - 🍀 Currently learning about flutter w/ my mates
 - 🥅 Trying to "greenify" my github page
-- 👯 If you have any inquiries, hit me up!
+- 👯 Any questions?, Hit me up!
 
 ### Spotify Playing 🎧
 
