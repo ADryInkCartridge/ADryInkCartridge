@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/bayuadjies)
+[<img src="https://adryinkcartridge.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bayuadjies)
 
 ### Connect with me:
 
