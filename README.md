@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.adryinkcartridge.vercel.app/)](https://open.spotify.com/user/bayuadjies)
+[![Spotify](https://adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/bayuadjies)
 
 ### Connect with me:
 
