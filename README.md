@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.adryinkcartridge.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bayuadjies)
+[<img src="https://now-playing-adryinkcartridge.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bayuadjies)
 
 ### Connect with me:
 
