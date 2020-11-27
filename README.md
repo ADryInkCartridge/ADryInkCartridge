@@ -1,4 +1,4 @@
-## 👋👋👋 I'm Bayu Adjie Sidharta
+## 👋👋👋 Hello!, I'm Bayu Adjie Sidharta
 - 💻 Student at Institut Teknologi Sepuluh Nopember
 - 🍀 Currently learning about flutter w/ my mates
 - 🥅 Trying to "greenify" my github page
