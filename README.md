@@ -32,4 +32,3 @@
 
 [![Spotify](https://novatorem.adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/bayuadjies)
 
----
