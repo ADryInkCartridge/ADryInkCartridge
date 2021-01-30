@@ -12,7 +12,7 @@
 </p>
 
 - 💻 Student at Institut Teknologi Sepuluh Nopember
-- 🍀 Currently learning about flutter w/ my mates
+- 🍀 Currently learning fullstack 
 - 🥅 Trying to "greenify" my github page
 - 👯 Any questions?, Hit me up!
 
