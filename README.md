@@ -12,7 +12,7 @@
 </p>
 
 - 💻 Student at Institut Teknologi Sepuluh Nopember
-- 🍀 Currently learning fullstack 
+- 🍀 Currently learning fullstack technologies
 - 🥅 Trying to "greenify" my github page
 - 👯 Any questions?, Hit me up!
 
