@@ -20,7 +20,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.adryinkcartridge.vercel.app//api?username=ADryInkCartridge&count_private=true&show_icons=true&theme=gruvbox)
 
-### Languages That I Use!
 
 [![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=ADryInkCartridge&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
 
