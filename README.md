@@ -15,12 +15,3 @@
 ### Languages That I Use!
 
 [![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=ADryInkCartridge&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
-
-### Wakatime For Personal Motivation
-
-[![willianrod's wakatime stats](https://github-readme-stats.adryinkcartridge.vercel.app/api/wakatime?username=ADryInkCartridge)](https://github.com/ADryInkCartridge/github-readme-stats)
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/bayuadjies)
-
