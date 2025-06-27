@@ -8,11 +8,6 @@
   
 </p>
 
-- 💻 Student at Institut Teknologi Sepuluh Nopember
-- 🍀 Currently learning Data Science on colab
-- 🥅 Trying to "greenify" my github page
-- 👯 Any questions?, Hit me up!
-
 ## Stats Right Now!
 
 ![Anurag's github stats](https://github-readme-stats.adryinkcartridge.vercel.app//api?username=ADryInkCartridge&count_private=true&show_icons=true&theme=gruvbox)
